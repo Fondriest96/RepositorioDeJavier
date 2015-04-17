@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=edadAzar\ campo\ posicion
+comment0.target=Conejo(boolean,\ Field,\ Location)
+comment0.text=\r\n\ Crea\ un\ nuevo\ conejo.\ Un\ conejo\ se\ puede\ crear\r\n\ con\ 0\ a\u00F1os\ (nacimiento)\ o\ con\ una\ edad\ al\ azar.\r\n\ \r\n\ @param\ edadAzar\ Si\ es\ true,\ el\ conejo\ tendr\u00E1\ una\ edad\ al\ azar\r\n\ @param\ campo\ El\ campo\ actual\ de\ la\ simulaci\u00F3n\r\n\ @param\ posicion\ La\ posici\u00F3n\ dentro\ del\ campo\r\n
+comment1.params=nuevosConejos
+comment1.target=void\ actuar(java.util.List)
+comment1.text=\r\n\ Esto\ es\ lo\ que\ el\ conejo\ est\u00E1\ siempre\ haciendo\:\ corre\ alrededor.\ \r\n\ Algunas\ veces\ se\ reproduce\ y\ algunas\ veces\ muere\ de\ viejo\r\n\ \r\n\ @param\ nuevosConejos\ Una\ lista\ a\ la\ que\ se\ le\ van\ a\u00F1adiendo\ los\ nacimientos\r\n
+comment2.params=edadAzar\ campo\ posicion
+comment2.target=Actor\ crearActor(boolean,\ Field,\ Location)
+comment3.params=
+comment3.target=int\ getEdadDeReproduccion()
+comment4.params=
+comment4.target=int\ getEdadMaxima()
+comment5.params=
+comment5.target=int\ getMaxCamada()
+comment6.params=
+comment6.target=double\ getProbabilidadReproduccion()
+comment7.params=
+comment7.target=boolean\ esPresa()
+numComments=8

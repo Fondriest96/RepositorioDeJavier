@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=listaActores
+comment0.target=void\ actuar(java.util.List)
+comment0.text=\r\n\ Ejecuta\ el\ comportamiento\ normal\ de\ un\ actor\r\n\ @param\ La\ lista\ de\ actores\ que\ son\ creados\ con\ su\ comportamiento\r\n
+comment1.params=
+comment1.target=boolean\ estaVivo()
+comment1.text=\r\n\ Devuelve\ si\ el\ actor\ esta\ vivo\ (activo)\r\n\ @return\ boolean\ si\ el\ actor\ esta\ vivo\ o\ no\r\n
+comment2.params=
+comment2.target=boolean\ esPresa()
+comment3.params=
+comment3.target=void\ setMuerto()
+numComments=4

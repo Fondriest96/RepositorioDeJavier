@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Simulador()
+comment0.text=\r\n\ Constructor\ por\ defecto.\ Crea\ el\ campo\ con\ el\ tama\u00F1o\ por\ defecto\r\n
+comment1.params=profundidad\ anchura
+comment1.target=Simulador(int,\ int)
+comment1.text=\r\n\ Crea\ un\ campo\ de\ simulaci\u00F3n\ con\ un\ tama\u00F1o\ dado.\r\n\ @param\ profundidad\ Profundidad\ del\ campo.\ Debe\ ser\ mayor\ que\ 0\r\n\ @param\ anchura\ Anchura\ del\ campo.\ Debe\ ser\ mayor\ que\ 0\r\n
+comment2.params=
+comment2.target=void\ correrSimulacionLarga()
+comment2.text=\r\n\ Corre\ la\ simulaci\u00F3n\ desde\ su\ estado\ actual\ \r\n\ un\ periodo\ razonablemente\ largo\ (500\ pasos)\r\n
+comment3.params=numPasos
+comment3.target=void\ simular(int)
+comment3.text=\r\n\ Corre\ la\ simulaci\u00F3n\ desde\ su\ estado\ actual\ un\ n\u00FAmero\ determinado\ de\ pasos\r\n\ Para\ antes\ si\ se\ alcanza\ una\ situaci\u00F3n\ no\ viable\r\n\ @param\ numPasos\ El\ n\u00FAmero\ de\ pasos\ a\ correr\r\n
+comment4.params=
+comment4.target=void\ simularUnPaso()
+comment4.text=\r\n\ Corre\ un\ solo\ paso\ la\ simulaci\u00F3n\ desde\ el\ estado\ actual\r\n\ Recorre\ todo\ el\ campo\ actualizando\ el\ estado\ de\ los\r\n\ zorros\ y\ los\ conejos\r\n
+comment5.params=
+comment5.target=void\ iniciarSimulacion()
+comment5.text=\r\n\ Inicializa\ la\ simulaci\u00F3n\ desde\ el\ principio\r\n
+comment6.params=
+comment6.target=void\ poblarCampo()
+comment6.text=\r\n\ Puebla\ aleatoriamente\ el\ campo\ con\ zorros\ y\ conejos\r\n
+comment7.params=
+comment7.target=void\ situarCazadores()
+numComments=8

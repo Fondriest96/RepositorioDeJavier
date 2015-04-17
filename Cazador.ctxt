@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=posicion\ campo
+comment0.target=Cazador(Location,\ Field)
+comment0.text=\r\n\ Constructor\ de\ Cazador\r\n
+comment1.params=nuevaPosicion
+comment1.target=void\ setPosicion(Location)
+comment2.params=
+comment2.target=Location\ getPosicion()
+comment3.params=
+comment3.target=Field\ getCampo()
+comment4.params=
+comment4.target=boolean\ estaVivo()
+comment5.params=
+comment5.target=boolean\ esPresa()
+comment6.params=listaCazadores
+comment6.target=void\ actuar(java.util.List)
+comment7.params=
+comment7.target=void\ setMuerto()
+numComments=8
