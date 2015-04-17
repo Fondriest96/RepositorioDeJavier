@@ -1,8 +1,7 @@
 Project:    ZorrosYConejos
-Autor:      Apah
-Asunto:     Es una adaptaci髇 (traducci髇) del proyecto del Libro
+Autor:      Javier Torres Stolle
+Asunto:     Es una adaptaci贸n (traducci贸n) del proyecto del Libro
 
-Es una simulaci髇 de predadro - presa, en este caso son zorros y conejos.
-
-En esta versi髇 no se usa herencia
+Es una simulaci贸n de predadro - presa, en este caso son zorros y conejos.
+En esta versi贸n no se usa herencia
 
